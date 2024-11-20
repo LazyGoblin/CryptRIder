@@ -1,0 +1,170 @@
+[
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIder.Build.cs",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIder.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIder.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderCharacter.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderCharacter.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderGameMode.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderGameMode.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderPlayerController.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderPlayerController.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderProjectile.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\CryptRIderProjectile.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\Grabber.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\Grabber.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\MovingWall.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\MovingWall.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\TP_PickUpComponent.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\TP_WeaponComponent.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\TriggerArea.cpp",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "G:\\Unreal Project\\CryptRIder\\Source\\CryptRIder\\TriggerArea.h",
+		"arguments": [
+			"D:\\Microsoft\\VisualStudioCommunity\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@G:\\Unreal Project\\CryptRIder\\.vscode\\compileCommands_Default\\CryptRIder.1.rsp"
+		],
+		"directory": "C:\\Program Files (x86)\\UE_5.4\\Engine\\Source"
+	}
+]
